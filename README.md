@@ -14,4 +14,8 @@ Tesy
 Nope
 Big crap
 
+<<<<<<< HEAD
 Ceva acolo, habar nu am ce.
+=======
+Git.Training 2019
+>>>>>>> simple-changes
