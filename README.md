@@ -13,3 +13,5 @@ Nici acum.
 Tesy
 Nope
 Big crap
+
+Ceva acolo, habar nu am ce.
