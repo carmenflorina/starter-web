@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Nu am chef
+Nu am chef Adding a line for rebase example.
 
 ## Purpose
 
