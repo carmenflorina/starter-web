@@ -17,5 +17,5 @@ Big crap
 <<<<<<< HEAD
 Ceva acolo, habar nu am ce.
 =======
-Git.Training 2019
+Git.Training 2019 All rights reserved.
 >>>>>>> simple-changes
