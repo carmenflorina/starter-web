@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-Nu am chef Adding a line for rebase example the more changes from myfeature branch too.
+Nu am chef Updating for emergency fix.
 
 ## Purpose
 
