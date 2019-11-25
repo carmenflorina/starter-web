@@ -12,10 +12,10 @@ Nici acum.
 
 Tesy
 Nope
-Big crap
+
 
 <<<<<<< HEAD
-Ceva acolo, habar nu am ce.
+
 =======
 Git.Training 2019 All rights reserved.
 >>>>>>> simple-changes
